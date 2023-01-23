@@ -1,0 +1,16 @@
+name: Multilingual Google Web Page Language Translator
+description: "Provides Multilingual Google Select Box Block on Webpage and helps in translating the webpage to selected language."
+type: module
+package: Multilingual
+configure: multilingual_google_web_translator.settings
+core_version_requirement: ^8 || ^9 || ^10
+
+# Information added by Drupal.org packaging script on 2020-08-16
+# version: "9.0.2"
+# project: "multilingual_google_web_translator"
+# datestamp: 1597582232
+
+# Information added by Drupal.org packaging script on 2022-07-16
+version: '9.4.1-alpha2'
+project: 'multilingual_google_web_translator'
+datestamp: 1657961598
