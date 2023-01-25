@@ -1,0 +1,12 @@
+translategoogle:
+  version: 1.x
+  css:
+    theme:
+      css/translate.css: {}
+  js:
+    js/translate.js: {}
+    //translate.google.com/translate_a/element.js?cb=googleTranslateElementInit:
+      { external: true }
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

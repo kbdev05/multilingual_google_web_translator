@@ -1,0 +1,7 @@
+multilingual_google_web_translator.settings:
+  path: "/admin/structure/multilingual_google_web_translator/settings/config_settings"
+  defaults:
+    _form: '\Drupal\multilingual_google_web_translator\Form\LanguageSelectForm'
+    _title: "Language Select Settings"
+  requirements:
+    _permission: "administer site configuration"

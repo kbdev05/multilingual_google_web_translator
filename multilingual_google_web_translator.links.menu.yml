@@ -1,0 +1,5 @@
+cpp.multilingual_settings:
+  title: "Multilingual Language Selection"
+  parent: system.admin_config_ui
+  description: "Multilingual Language Selection Settings"
+  route_name: multilingual_google_web_translator.settings
